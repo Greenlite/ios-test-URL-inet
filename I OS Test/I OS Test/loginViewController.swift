@@ -1,6 +1,6 @@
 //
 //  loginViewController.swift
-//  I OS Test
+//  I OS Test // swift 3.0 
 //
 //  Created by Sergey Matveev on 25/12/2016.
 //  Copyright © 2016 Greenlite.cg. All rights reserved.
